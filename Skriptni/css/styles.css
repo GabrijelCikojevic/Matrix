@@ -1,0 +1,165 @@
+body{
+    color: #d89216;
+    background-color: #fcf8e8;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+a:link {
+    color: #00917c;
+    background-color: transparent;
+    text-decoration: underline
+}
+
+a:visited {
+    color: #00917c;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00917c;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.quicknav{
+    height: 4rem;
+    background-color: #df7861;
+    text-align: center;
+    color: #00917c;
+
+
+    margin: none;
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+
+
+
+
+.storesubtext{
+    color: #d89216;
+
+    margin: 0.2rem;
+    font-size: 2rem;
+}
+
+
+.middlecontainer{
+    margin-top: 3rem;
+
+
+    background-color: #fcf8e8;
+    color: #d89216;
+
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.storename {
+    
+    position: relative;
+    left: 30%;
+
+    margin-top: 5rem;
+    background: #00917c;
+    text-align: center;
+    border: 0.1rem solid #ecb390;
+
+
+    width: 33rem;
+  }
+.center{
+    margin-top: 1.5rem;
+    font-size: 5rem;
+}
+
+.featuredshop{
+    margin-top: 3rem;
+
+    background-color: #fcf8e8;
+    color: #d89216;
+
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.tableholder{
+    margin:5rem 10rem;  
+}
+
+td{
+    margin: 3rem 2rem;
+    padding: 1rem 1rem;
+}
+
+.contactcontainer{
+    height: 2.5rem;
+    background-color: #fcf8e8;
+
+    padding-top: 1.5rem;
+    margin-bottom: none;
+    text-align: center;
+}
+
+.pricing{
+    font-size: 2.5rem;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cartbutton {
+	background-color:#ecb390;
+	border-radius:28px;
+	border:1px solid #ecb390;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Arial;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+
+}
+.cartbutton:hover {
+	background-color:transparent;
+}
+.cartbutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.itemsearch{
+    width: 25rem;
+
+    text-align: center;
+   
+}
+
+
+.prvaslika{
+    width: 150%;
+    height: 10rem;
+    padding-right: 50%;
+}
+
+.drugaslika{
+    width: 100%;
+    height: 10rem;
+    padding-right: 10%;
+}
+
+.trecaslika{
+    width: 100%;
+    height: 10rem;
+    padding-right: 10%;
+}
+
+.cetvrtaslika{
+    width: 50%;
+    height: 10rem;
+    padding-right: 10%;
+}
